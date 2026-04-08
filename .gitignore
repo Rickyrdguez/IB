@@ -1,0 +1,10 @@
+# Ignorar todos los archivos ejecutables
+*.exe
+
+# Si usas carpetas de compilación (opcional)
+build/
+bin/
+out/
+
+# Archivos temporales de VS Code
+.vscode/
