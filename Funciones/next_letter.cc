@@ -14,7 +14,7 @@
 std::string CambioCaracteres(std::string palabra) {
   
   for (char& caracter : palabra) {
-   caracter = static_cast<char>(static_cast<int>(caracter) +1);
+   caracter = static_cast<char>(static_cast<int>(caracter) + 1);
   }
 
   return palabra;
