@@ -8,7 +8,7 @@
 #include <string>
 
 /**
- * @brief Funcion que escribe el acronimo
+ * @brief Funcion que escribe el acronimo 
  *
  * @param cadena Cadena a comprobar si es mayuscula
  */

@@ -29,7 +29,7 @@ int main(int argc, char* argv[]) {
   if (argc != 4) {
     std::cerr << "ERROR el programa " << argv[0]
               << " usa <palabra> <posicion> <longitud_substring>" << std::endl;
-    return -1;
+    return -1; 
   }
 
   std::string palabra = argv[1];

@@ -75,7 +75,7 @@ double SenoAprox(double x, int m) {
  * @brief Aproxima el coseno de x usando los primeros m terminos de su serie
  *        de Taylor: cos(x) = 1 - x^2/2! + x^4/4! - ...
  *
- * @param x Punto en el que evaluar el coseno
+ * @param x Punto en el que evaluar el coseno 
  * @param m Numero de terminos a usar en la aproximacion
  * @return Aproximacion de cos(x)
  */

@@ -9,7 +9,7 @@
 /**
  * @brief Cambia una letra de una cadena por la siguiente en el abecedario
  * 
- * @param Palabra Palabra a cambiar los carácteres
+ * @param Palabra Palabra a cambiar los carácteres 
  */
 std::string CambioCaracteres(std::string palabra) {
   

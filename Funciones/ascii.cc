@@ -43,7 +43,7 @@ void CaracterSiguiente(const std::string& palabra) {
 
 /**
  * @brief Funcion que devuelve el caracter anterior de la tabla ASCII.
- *
+ * 
  * @param palabra String que hay que pasar a codigo ASCII
  */
 void CaracterAnterior(const std::string& palabra) {

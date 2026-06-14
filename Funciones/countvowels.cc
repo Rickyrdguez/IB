@@ -2,7 +2,7 @@
  * Escriba una función CountVowels que reciba como parámetro una cadena de
  * caracteres y devuelva el número de vocales que ésta contiene. Use la función
  * en un programa y compruebe su correcto funcionamiento con varias cadenas
- */
+ */ 
 
 #include <iostream>
 #include <string>

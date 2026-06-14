@@ -16,7 +16,7 @@ constexpr double kPi{3.1415926536};
  * de la raíz cuadrada
  *
  * @param longitud Double que representa la longitud de un lado
- */
+ */ 
 double CalculoDelAreaRaiz(double longitud) {
   return ((longitud * longitud) * (std::sqrt(3) / 4));
 }

@@ -8,7 +8,7 @@
  * del cilindro se calcula como el área de su base multiplicada por su altura
  *
  * El programa debe recibir dos números reales (primero radio, luego altura) y
- * mostrar el volumen del cilindro correspondiente.
+ * mostrar el volumen del cilindro correspondiente. 
  */
 
 #include <iostream>

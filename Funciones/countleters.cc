@@ -1,6 +1,6 @@
 /**
  * Escriba un programa que reciba una cadena de caracteres y devuelva el número
- * de caracteres que hay en dicha cadena
+ * de caracteres que hay en dicha cadena 
  */
 
  #include <iostream>

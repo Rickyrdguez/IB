@@ -9,7 +9,7 @@
 #include <string>
 
 /**
- * @brief Funcion que cambia la cadena completa a minuscula
+ * @brief Funcion que cambia la cadena completa a minuscula 
  *
  * @param palabra String a cambiar a minuscula
  */

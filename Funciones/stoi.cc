@@ -16,7 +16,7 @@ bool EsNumero() {
 }
 
 /**
- * @brief Comprobar que la cadena solo contiene números
+ * @brief Comprobar que la cadena solo contiene números 
  *
  * @param cadena Cadena de carácteres
  */

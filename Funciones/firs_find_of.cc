@@ -10,7 +10,7 @@
 
 /**
  * @brief Función que recibe una palabra y una letra, esa letra la busca y
- * devuelve la posición en la que la encontró
+ * devuelve la posición en la que la encontró 
  *
  * @param palabra String de la palabra
  * @param letra Letra a buscar en la palabra

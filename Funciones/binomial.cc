@@ -47,7 +47,7 @@ bool CualMayor(int numero_n, int numero_k) {
 
 /**
  * @brief Funcion que calcula el factorail de un numero
- *
+ * 
  * @param numero Numero a calcular el factorial
  */
 int Factorial(int numero) {

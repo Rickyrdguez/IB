@@ -2,7 +2,7 @@
  * Escriba un programa que contenga una función que reciba dos cadenas en
  * formato std::string y devuelva su combinación, tomando una letra de cada una
  * alternativamente. Si las dos cadenas no tienen la misma longitud, la función
- * debe ignorar las letras sobrantes de la cadena más larga.
+ * debe ignorar las letras sobrantes de la cadena más larga. 
  */
 
 #include <algorithm>

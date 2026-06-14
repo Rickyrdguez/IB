@@ -63,7 +63,7 @@ int main(int argc, char* argv[]) {
     std::cerr << "ERROR. El programa " << argv[0]
               << "usa <temp_min> <temp_maxima> <diferencia_de_temperatura>"
               << std::endl;
-    return 1;
+    return 1; 
   }
 
   SalidaPrograma(std::atoi(argv[1]), std::atoi(argv[2]), std::atoi(argv[3]));

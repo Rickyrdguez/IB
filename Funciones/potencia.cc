@@ -10,7 +10,7 @@
  * @brief Función encargada de calcular la potencia
  *
  * @param base double que representa la base
- * @param exponente int que representa el exponente de la potencia
+ * @param exponente int que representa el exponente de la potencia 
  */
 double CalculoDePotencia(double base, int exponente) {
   double resultado{1.0};

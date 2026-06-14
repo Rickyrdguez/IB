@@ -30,7 +30,7 @@ std::vector<int> NumerosEnLaBase(int numero, int base) {
 }
 
 /**
- * @brief Funcion encargada de mostrar los elementos del vector
+ * @brief Funcion encargada de mostrar los elementos del vector 
  *
  * @param numero Numero a pasar
  * @param base Base a la que pasar el número

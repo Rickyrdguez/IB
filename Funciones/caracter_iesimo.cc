@@ -8,7 +8,7 @@
  * i-ésimo entero:	0	1	2	...	7	8	9
  * 10	11	12	...	33	34	35 i-ésimo carácter:	'0'
  * '1'	'2'	...	'7'	'8'	'9'	'A'	'B'	'C'	...
- * 'X'	'Y'	'Z'
+ * 'X'	'Y'	'Z' 
  */
 #include <iostream>
 #include <string>

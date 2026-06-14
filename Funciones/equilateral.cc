@@ -11,7 +11,7 @@ constexpr double kPi{3.1415926536};
 /**
  * @brief Funcion que calcula un área de un triangulo rectangulo dado el seno pi/3
  * 
- * @param longitud Longitud de uno de sus lados
+ * @param longitud Longitud de uno de sus lados 
  */
 double AreaDelTriangulo(double longitud) {
   return ((longitud * longitud) * std::sin(kPi / 3) / 2);

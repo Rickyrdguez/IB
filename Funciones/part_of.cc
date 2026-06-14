@@ -10,7 +10,7 @@
  * @brief Funcion que comprueba que la cadenaB sea menor que la cadenaA
  *
  * @param cadena_a Primera cadena recibida
- * @param cadena_b Segunda cadena recibida
+ * @param cadena_b Segunda cadena recibida 
  */
 bool ComprobarTamanios(std::string cadena_a, std::string cadena_b) {
   if (cadena_a.size() < cadena_b.size()) {

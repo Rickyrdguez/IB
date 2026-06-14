@@ -9,7 +9,7 @@
  * son primos. Si se extraen los factores en orden ascendente, no puede existir
  * un factor mayor que la raíz cuadrada del valor a descomponer. Si ya no quedan
  * más factores posibles pero el valor a descomponer es mayor que 1, dicho valor
- * es el último factor primo de la descomposición.
+ * es el último factor primo de la descomposición. 
  */
 
 #include <iostream>

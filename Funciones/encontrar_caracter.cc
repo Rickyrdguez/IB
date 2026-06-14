@@ -13,7 +13,7 @@
  * por el usuario
  * @param palabra Palabra a comprobar
  * @param letra Caracter a buscar
- * @return posicion en la que s e encuentra
+ * @return posicion en la que s e encuentra 
  */
 int Posicion(std::string palabra, char letra) {
 
